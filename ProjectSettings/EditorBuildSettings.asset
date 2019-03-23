@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 07e6ab73e849aff4992bbd16af726da8
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: d0072a169b5467a45a29a191d55b5443
+  - enabled: 1
+    path: Assets/Scenes/SharkSelection.unity
+    guid: 0d97e918c2f4fe54ca77a3b5904e2881
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects: {}
